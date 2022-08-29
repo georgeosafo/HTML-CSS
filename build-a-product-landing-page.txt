@@ -1,0 +1,103 @@
+** start of undefined **
+
+<!DOCTYPE html5>
+<html>
+   <head><link rel="stylesheet" href="styles.css"></head>
+ 
+    <header id="header">
+      
+      <nav class="navigation-bar" id="nav-bar">
+        <img id="header-img"class="logo" src="https://icons.iconarchive.com/icons/aha-soft/large-home/256/Property-icon.png" width=90%>
+        
+        <a class="nav-link" href="#header">Home</a>
+        <a class="nav-link" href="#features">Services</a>
+        <a class="nav-link" href="#video">About</a>
+        <a class="nav-link" href="#form">Contact</a>
+    </nav>
+    </header>
+  <div class="container">
+  
+    <h1 id="title">Get affordable house to buy or rent at Uptown - E/R, Ghana</h1>
+<p class="about-p">About Affordable Housing Project</p>
+  </section>
+
+  <section id="features">
+    <div class="centre">
+    <div class="grid">
+      <div class="icon">       <i class="fa fa-3x fa-fire"></i></div>
+      <div class="desc">
+        <h2>High Class Houses</h2>
+        <p class="description">
+          Our houses are very beautiful made with world-class quality materials
+        </p>
+      </div>
+    </div>
+    <div class="grid">
+      <div class="icon"> <i class="fa fa-3x fa-fire"></i></div>
+      <div class="desc">
+        <h2>Budget Friendly</h2>
+        <p class="description">
+         Every worker, regardless of one's earnings per month can buy or rent our affotdable houses in a flexible payment plan.
+        </p>
+      </div>
+    </div>
+    <div class="grid">
+      <div class="icon">
+        <i class="fa fa-3x fa-fire"></i>
+      </div>
+      <div class="desc">
+        <h2>Maintenance Culture</h2>
+        <p class="description">
+          We maintain and repaire every faulty part of our products for free for the whole first year after which you pay a little amount monthly.
+      </div>
+    </div>
+  </div>
+  </section>
+
+<section class="youtube">
+  <h2>Take a look at our youtube channel</h2>
+  <iframe  id= "video" width="800" height="450" src="https://www.youtube.com/watch?v=Gfk3F28u7GQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+
+
+    <section class="apply">
+      <h2 class="apply-now">Apply now</h2>
+      <form id="form"action="https://www.freecodecamp.com/email-submit">
+        <label name="email" for="">Email</label>
+                <input id="email" name="email" type="email" placeholder="Add your email here" required>
+                <label for=""></label>
+                <input id="submit" type="submit"> 
+              </form>
+    </section>
+
+   
+      
+    </div>
+  </div>
+  </div>
+  <footer>
+    <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+  <a class="footer-link" href="https://twitter.com/">Twitter</a>
+  <a class="footer-link" href="https://nostalgic-bohr-d86916.netlify.app/ ``` line below,
+because they allow your code to properly format in the post.
+
+** end of undefined **
+
+** start of undefined **
+
+#nav-bar {
+  position: fixed;
+  width: 100%;
+  background-color:#6F2
+}
+#video{
+  display: flex;
+}
+@media(min-width: 500px){#header{
+  width: 100%;
+}
+
+}
+
+** end of undefined **
+

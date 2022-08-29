@@ -1,0 +1,35 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+  <head><link rel="stylesheet" href="styles.css"></head>
+  <main id="main">
+  <h1 id="title">The CamperBot
+</h1>
+ <figure id="img-div">
+   <img src="https://s3.amazonaws.com/freecodecamp/FCCStickers-CamperBot200x200.jpg" id="image" alt="">
+  <figcaption id="img-caption">
+   CamperBot logo </figcaption>
+</figure>
+<p id="tribute-info" >
+CamperBot is a full featured chat bot for Gitter.im developed to integrate with the chat rooms for FreeCodeCamp — the largest online coding bootcamp in the world , where it serves more than 60,000 campers. For more information about CamperBot, click <a href="https://github.com/freeCodeCamp/camper-gitter-bot" target= "_blank" id="tribute-link">here</a>.
+</p>
+</main>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+#image{
+  max-width: 100%;
+  height: auto;
+display:block;
+}
+#img-div{
+justify-content: center; 
+  }
+
+** end of undefined **
+

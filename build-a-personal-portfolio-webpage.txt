@@ -1,0 +1,70 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+ <head><link rel="stylesheet" href="styles.css"></head> <link rel="stylesheet" type="text/css" href="css/style.css">
+  <title>Personal Portfolio Webpage</title>
+</head>
+
+<body>
+  <!-- Navigation bar -->
+    <nav id="navbar">
+      <a href="#navbar">Home</a>  < ><a href="#projects">Projects</a><><a href="#contact">Contact</a>
+    </nav><br>
+    <div id="welcome-section" class="container">
+      <h1 id="title">Welcome to My Portfolio</h1>
+      <p class="lead">This site is designed to present various works and projects done by me.</p>
+    </div>
+  </header>
+
+  <!-- Projects -->
+  <section id="projects">
+    <div class="project-tile">
+      <h1 id="caption">My Projects</h1>
+      <div class="projects">
+        Find a few of my projects in the links below
+        <div class="box">
+          <a target="_blank" href="#">Tribute Page
+          
+          </a><br>
+          <a target="_blank" href="#" alt="">Documentation Page</a><br>
+    <a href="#">
+           Landing Page  </a><br> <br>
+      <a href="https://github.com/FreeCodeCamp-Solutions" >Show More</a>
+    </div>
+  </section>
+
+  <!-- CONTACT SECTION -->
+  <section id="contact">
+    <div class="container">
+      <h1 id="title">About ME </h1>
+      <p class="lead">My name is George osafo, a young IT enthusiast and researcher who aspires to be a data scientist. You may follow my profile at freeCodeCamp  <a id="profile-link" target="_blank" href="https://www.freecodecamp.org/georgeosafo">here</a>.</p>
+      <p>Need help with your project? Just ask!</p>
+        <div>
+          <a id="profile-link" target="_blank" href="https://www.github.com/georgeosafo">
+            Github
+          </a>
+          <a target="_blank" href="https://twitter.com/georgeosafo_">Twitter
+          </a>
+        </div>
+    </div>
+  </section>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+#navbar {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  height:10%;
+  background-color:#000;
+ }
+@media (min-height: 800px) {p{font-size: 10px;}}
+
+
+** end of undefined **
+

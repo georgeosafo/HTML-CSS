@@ -1,0 +1,149 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main id="main-doc">
+     <nav id="navbar">
+      <header>Content</header>
+      <a class="nav-link" href="#First_Things">First Things</a>
+      <a class="nav-link" href="#Introduction">Introduction</a>
+      <a class="nav-link" href="#Getting_Answers">Getting Answers</a>
+      <a class="nav-link" href="#Summary">Summary</a>
+      <a class="nav-link" href="#Conclusion">Conclusion</a>
+    </nav>
+    <section class="main-section" id="First_Things">
+      <header>First Things</header>
+      <code></code>
+      <code></code>
+      <code></code>
+      <code></code>
+      <code></code>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+    </section>
+    <section class="main-section" id="Introduction">
+      <header>Introduction</header>
+      <code></code>
+      <code></code>
+      <code></code>
+      <code></code>
+      <code></code>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+    </section>
+    <section class="main-section" id="Getting_Answers">
+      <header>Getting Answers</header>
+      <code></code>
+      <code></code>
+      <code></code>
+      <code></code>
+      <code></code>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+    </section>
+    <section class="main-section" id="Summary">
+      <header>Summary</header>
+      <code></code>
+      <code></code>
+      <code></code>
+      <code></code>
+      <code></code>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+    </section>
+    <section class="main-section" id="Conclusion">
+      <header>Conclusion</header>
+      <code></code>
+      <code></code>
+      <code></code>
+      <code></code>
+      <code></code>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+    </section>
+  </main>
+
+</body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+@media(min-width: 200px){#header{
+  width: 1/2fr;
+}
+
+** end of undefined **
+

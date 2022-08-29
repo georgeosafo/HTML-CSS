@@ -1,0 +1,57 @@
+** start of undefined **
+
+<!DOCTYPE html5>
+<html>
+  <h1 id="title">Survey Form</h1
+</h1>
+<p id="description" >
+This survey form will ask for the respondents' Name, Email, Age, educational level and sex. The survey format is multiple-choice, giving your respondents an easy way of completing it in a few minutes. Use this market research template and use the collected submission data to your advantage.
+</p>
+<form id="survey-form">
+ <p>Kindly provide your details below</p>
+    <label id="name-label">Full Name: <input id="name" type="text" placeholder="Enter your full name" required>
+ </label><br>
+
+    <label id="email-label" >Email: <input id="email" type="email" placeholder="Enter your email address" required>
+ </label><br>
+ <label id="number-label">Age: <input id="number" type="number" min="0" max="100"
+ placeholder="your age" required>
+ </label><br>
+ <label> Select your Education Level
+ </label>
+ <select id= "dropdown">  
+<option value = "Basic"> Basic
+</option>  
+<option value = "Secondary"> Secondary
+</option>
+<option value = "Tertiary"> Tertiary   
+</option>  
+<option value = "Post-Graduate">Post Graduate
+</option>   
+</select> <br>  
+ Choose your sex<br>
+ <label for="male"><input id="male" value="male" type="radio" name="sex"> Male</label><br>
+    <label for="male"><input id="male" value="male" type="radio" name="sex"> Female</label><br>
+ 
+ Select countries visited<br>
+ <label for="South-Africa"><input id="South-Africa" value="South-Africa" type="checkbox" name="country"> South Africa</label><br>
+    <label for="Rwanda"><input id="Rwanda" value="Rwanda" type="checkbox" name="country"> Rwanda</label><br>
+        <label for="Ireland"><input id="Ireland" value="Ireland" type="checkbox" name="country"> Ireland</label><br>
+            <label for="USA"><input id="USA" value="USA" type="checkbox" name="country"> USA</label><br>
+    <label for="Canada"><input id="Canada" value="Canada" type="checkbox" name="country"> Canada</label> <br>
+    <textarea name="comments" rows="3" cols="30" placeholder="All comments here..."></textarea>
+    
+ <button id="submit" type="submit">Submit</button>
+</form>
+</main>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
